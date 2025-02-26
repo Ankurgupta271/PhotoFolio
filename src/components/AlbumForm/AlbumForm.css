@@ -1,0 +1,21 @@
+.album-form {
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+  }
+  
+  .btn-clear {
+    background-color: #ccc;
+  }
+  
+  .btn-submit {
+    background-color: #2196f3;
+    color: white;
+  }
